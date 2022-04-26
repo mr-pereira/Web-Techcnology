@@ -1,0 +1,49 @@
+body{
+    box-sizing: border-box;
+}
+html,body,header,footer,figure,figcaption,h1,img,p{
+    
+ 
+    vertical-align: baseline;
+   
+}
+
+nav,footer{
+    background-color: #3D6271;
+    color: white;
+}
+h1{
+    color: white;
+    font-size: 3em;
+}
+nav{
+    padding: 10px;
+    
+}
+.m{
+    color: white;
+    text-decoration: none;
+    
+}
+.share{
+    padding: 10px;
+    background-color: grey;
+    border-radius: 5px;
+    margin-left: 36px;
+    margin-right: 960px;
+}
+header,footer{
+    margin: 0em 4em 0.5em 4 em;
+    
+}
+header{
+    background-color: #0e3544;
+    padding: 15px;
+    border-radius: 8px;
+}
+footer{
+    padding: 10px;
+}
+a:hover{
+    color: red;
+}
